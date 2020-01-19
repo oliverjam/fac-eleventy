@@ -2,6 +2,13 @@
   "title": "Hire our graduates",
   "intro": "Our dedicated network of employer partners are an essential part of the cooperative community at Founders and Coders. We are always looking for new partners committed to building inclusive workplaces where our diverse graduates will thrive.",
   "image": "/assets/media/hire_splash.jpg",
+  "quotes": [
+    {
+      "name": "test",
+      "company": "tesst",
+      "body": "tessst"
+    }
+  ],
   "partners": [
     "/assets/media/27Partners.jpg",
     "/assets/media/8th_Light.png",
